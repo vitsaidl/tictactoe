@@ -1,0 +1,2 @@
+# Tic tac toe
+Obligatory tic-tac-toe. Honestly it was a nice opportunity to try minimax, but I cannot imagine that anyone would have fun playing this kind of game on 3x3 game field. Theoretically it is possible to play on game-board of arbitrary (2D) dimension. However even that the program use minimax with alpha-beta pruning the game is slooooooow.
